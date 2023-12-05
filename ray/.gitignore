@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+/files/
+/static/
+.idea*
+postgresql/
+venv/
